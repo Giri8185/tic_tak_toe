@@ -38,11 +38,10 @@ Dynamic Board Management: Updates and displays the game board in real time.
 
 
 # How to Run
-1.Clone this repository:
-git clone https://github.com/Giri8185/tic_tac_toe.git
+1.Clone this repository
 
 2.Navigate to the project directory:
-cd tic-tac-toe-ai
+cd tic-tac-toe
 
 3.Compile the program:
 g++ tic-tac-toe.cpp -o tic-tac-toe
